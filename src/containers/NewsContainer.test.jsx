@@ -1,1 +1,1 @@
-expect(true).toEqual(true)
+expect(2).toEqual(2)
