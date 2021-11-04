@@ -27,7 +27,7 @@ export default class NewsContainer extends Component {
     };
 
     render() {
-        const { loading, articles, country, handleCountryChange, handleSubmit } = this.state;
+        const { loading, articles, country } = this.state;
 
         return (
             <>
@@ -37,8 +37,8 @@ export default class NewsContainer extends Component {
                 <>
                 <Controls
                 country={country}
-                onCountryChange={handleCountryChange}
-                onSubmit={handleSubmit}
+                onCountryChange={this.handleCountryChange}
+                onSubmit={this.handleSubmit}
                 />
                 <ArticleList articles={articles} />
                 </>

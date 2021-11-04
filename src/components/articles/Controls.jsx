@@ -10,7 +10,7 @@ export default function Controls({
         <label htmlFor='country'>Country</label>
         <input 
         id='country'
-        origin='country'
+        name='country'
         type='text'
         value={country}
         onChange={onCountryChange}
