@@ -1,6 +1,7 @@
 
 describe('test', () => {
-    it('test'), ()=> {
-        expect(2).toEqual(2)
-    }
+    it('test', () => {
+        const thing = 2
+        expect(thing).toEqual(2)
+    })
 });
