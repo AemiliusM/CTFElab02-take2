@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`shows news articles should display a list of articles 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li>
+    <div>
+      <h1>
+        Title: 
+        Dignitaries gather at Washington National Cathedral for Colin Powell's funeral - CNN
+      </h1>
+      <span>
+        Author: 
+        Veronica Stracqualursi, CNN
+      </span>
+      <h3>
+        Description: 
+        The casket of the late Gen. Colin Powell has arrived at Washington National Cathedral, where former presidents, dignitaries and friends have gathered for the funeral service of the former secretary of state and chairman of the Joint Chiefs of Staff.
+      </h3>
+    </div>
+  </li>
+  <li>
+    <div>
+      <h1>
+        Title: 
+        Kate Beckinsale Liked A Post About Her Ex Pete Davidson's Charm After People Questioned His Rumored Relationship With Kim Kardashian Following Their Dinner Dates - BuzzFeed News
+      </h1>
+      <span>
+        Author: 
+        Leyla Mohammed
+      </span>
+      <h3>
+        Description: 
+        Kate's subtle comment came hours after Kim and Pete were spotted out to dinner for the second time in a week.
+      </h3>
+    </div>
+  </li>
+  <li>
+    <div>
+      <h1>
+        Title: 
+        The PS5 and Xbox Series X are available at Walmart today - The Verge
+      </h1>
+      <span>
+        Author: 
+        Alice Newcome-Beill, Antonio G. Di Benedetto
+      </span>
+      <h3>
+        Description: 
+        Walmart has announced restocks of the Playstation 5 and Xbox Series X, kicking off at 3PM ET / 12PM PT on its website. Availability is first come, first served, so you’ll have to act fast.
+      </h3>
+    </div>
+  </li>
+  <li>
+    <div>
+      <h1>
+        Title: 
+        Bitcoin scam: Kroger confirms press release was faked - CNN
+      </h1>
+      <span>
+        Author: 
+        Reuters
+      </span>
+      <h3>
+        Description: 
+        Kroger said on Friday a press release touting the acceptance of bitcoin cash at its stores this holiday season is fraudulent, making it the second major retailer in recent weeks to get entangled in a crypto hoax.
+      </h3>
+    </div>
+  </li>
+  <li>
+    <div>
+      <h1>
+        Title: 
+        Russian diplomat found dead in Berlin was intelligence officer - The Guardian
+      </h1>
+      <span>
+        Author: 
+        Andrew Roth
+      </span>
+      <h3>
+        Description: 
+        German media identify man who apparently fell from window of Russian embassy as member of FSB
+      </h3>
+    </div>
+  </li>
+</ul>
+`;

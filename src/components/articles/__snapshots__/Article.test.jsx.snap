@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`article test yo! should render a single article 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Title: Something, something, something, darkside
+    </h1>
+    <span>
+      Author: robot chicken
+    </span>
+    <h3>
+      Description: skit
+    </h3>
+  </div>
+</DocumentFragment>
+`;
